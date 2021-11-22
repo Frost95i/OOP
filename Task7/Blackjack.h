@@ -1,7 +1,5 @@
 #pragma once
 
-//#ifndef BLACKJACK_HPP_
-//#define BLACKJACK_HPP_
 
 #include <iostream>
 #include <string>
@@ -342,4 +340,3 @@ private:
 
 void exercise_5();
 
-//#endif
